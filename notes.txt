@@ -1,0 +1,13 @@
+lab 4 notes
+
+- why do we want to send data from one processor to the next?
+
+- switch traversal (ST) is the the 5x5 crossbar, largest area consuming component in router
+- might also be the critical path
+- long wires, delay
+- spanning out to 5 mux, so high cap
+- need driver circuit
+
+- double pumped cross bar drives signals on both clock cycles
+
+- how many tiles in a 1mm by 1mm chip? much smaller than slide 35
